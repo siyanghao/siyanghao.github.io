@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siyang Hao"
 title_separator          : "-"
 name                     : &name "Siyang Hao"
-description              : &description "personal description"
+description              : &description "Siyang Hao — Research Associate at the University of Virginia, working on fluid mechanics, flapping flight and bio-inspired robotics."
 url                      : https://siyanghao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siyanghao/siyanghao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siyang Hao"
   avatar           : "profile.png"
-  bio              : "Ph.D Student at Brown University"
-  location         : "345 Brook St., Providence"
-  employer         : "Brown University"
-  pubmed           : 
-  googlescholar    : 
-  email            : "siyang_hao@brown.edu"
+  bio              : "Research Associate at the University of Virginia | Fluid Mechanics &amp; Bio-inspired Robotics"
+  location         : "Charlottesville, VA"
+  employer         : "University of Virginia"
+  pubmed           :
+  googlescholar    :
+  email            : "svb4rc@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
