@@ -35,7 +35,7 @@ Experience
     * Commissioned the newly constructed animal flight wind tunnel (hardware and software) for multi-channel automated experiments
     * Enabled synchronized machine-vision kinematic tracking, laser-illuminated flow measurements (PIV), bird-wearable dynamic analysis, and metabolic measurements
     * Studied vortex wake interactions in flapping flight with live birds and bio-inspired robotic platforms, addressing vortex gust encounters relevant to UAVs and wind turbines
-    * Designed and tested the flapping-wing robot **Flapperoo** with active wing twisting and folding, featured by *National Geographic*
+    * Designed and tested the flapping-wing robot **Flaproo** with active wing twisting and folding, featured by *National Geographic*
     * Applied data-driven processing across multi-fold datasets to extract robust flow features
     * Led a 10-member engineering team, mentored REU students, and collaborated closely with biologists
     * Supervisor: Prof. Kenny Breuer
