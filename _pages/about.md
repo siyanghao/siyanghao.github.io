@@ -17,7 +17,7 @@ Research Summary
 ======
 His research interests span <strong>fluid mechanics &amp; bio-inspired robotics</strong>, covering
 
-  * experimental fluid mechanics (PIV, hot-wire anemometry, automated wind and water tunnel testing)
+  * experimental fluid mechanics (PIV, automated wind and water tunnel testing)
   * unsteady aerodynamics, vortex-wake and fluid&ndash;structure interaction
   * animal locomotion, flight mechanics, and robotic flyers and swimmers
   * flow control for wind energy and unmanned vehicles
