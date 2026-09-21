@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Biography"
-excerpt: "About me"
+excerpt: "Siyang Hao is a Research Associate at the University of Virginia working on experimental fluid mechanics, flapping flight, and bio-inspired robotics."
 author_profile: true
 redirect_from: 
   - /about/
