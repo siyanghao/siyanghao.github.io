@@ -20,3 +20,5 @@ Four measurements run simultaneously:
 Commissioning the newly built wind tunnel &mdash; hardware, control software and synchronized multi-channel acquisition &mdash; was a substantial part of the work, as was leading a 10-member engineering team and collaborating with biologists at UMass Amherst and UNC Chapel Hill.
 
 The results speak to a practical problem: how UAVs and wind turbines respond to vortex gust encounters, and how flocking birds may gain energetic benefit from each other's wakes. The companion [Surfing Wing](/portfolio/02b-surfing-wing/) study isolates the same aerodynamics on a rigid, instrumented airfoil.
+
+The results are published (open access) in *Experiments in Fluids*: [Surfing on vortices: bird flight responses to an unsteady vortex wake](https://doi.org/10.1007/s00348-026-04292-1) (2026).

@@ -1,13 +1,13 @@
 ---
-title: "Flaproo: A Bat-Inspired Flapping Wing Robot"
-permalink: /portfolio/flaproo/
+title: "Flapperoo: A Bat-Inspired Flapping Wing Robot"
+permalink: /portfolio/flapperoo/
 excerpt: "Independent control of flapping, wing folding and wing twist &mdash; featured by <em>National Geographic</em> <br/><video src='/images/Flapperoo_web.mp4' poster='/images/Flapperoo_poster.jpg' autoplay loop muted playsinline></video>"
 collection: portfolio
 ---
 
-Live animals are uncooperative experimental subjects: they will not repeat a wingbeat on command, and they change their kinematics the moment conditions change. **Flaproo** is the answer to that problem &mdash; a bat-inspired robotic platform that reproduces the wing motion of a frugivorous bat, with anatomically-accurate weight distribution, and lets each degree of freedom be commanded independently.
+Live animals are uncooperative experimental subjects: they will not repeat a wingbeat on command, and they change their kinematics the moment conditions change. **Flapperoo** is the answer to that problem &mdash; a bat-inspired robotic platform that reproduces the wing motion of a frugivorous bat, with anatomically-accurate weight distribution, and lets each degree of freedom be commanded independently.
 
-<video src='/images/Flapperoo_web.mp4' poster='/images/Flapperoo_poster.jpg' autoplay loop muted playsinline controls title="Flaproo flapping in the wind tunnel under laser illumination"></video>
+<video src='/images/Flapperoo_web.mp4' poster='/images/Flapperoo_poster.jpg' autoplay loop muted playsinline controls title="Flapperoo flapping in the wind tunnel under laser illumination"></video>
 
 Three independent degrees of freedom:
 
