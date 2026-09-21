@@ -86,7 +86,7 @@ author:
   location         : "Charlottesville, VA"
   employer         : "University of Virginia"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wTs_bqUAAAAJ&view_op=list_works"
   email            : "siyanghao@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
