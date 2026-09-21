@@ -90,6 +90,7 @@ Invited Talks
 
 Professional Service
 ======
+* 2026: **Guest Editor**, *Biomimetics* (MDPI), Special Issue "Fluid Dynamics Underlying High Maneuverability in Bio-Inspired Locomotion"
 * 2025: **Session Chair**, 78th APS-DFD Annual Meeting, Houston, TX
 * 2024: **Peer Reviewer**, *Physics of Fluids*
 * 2023: **Technical Projects Reviewer**, AIAA SciTech Forum, Orlando, FL

@@ -21,4 +21,8 @@ Commissioning the newly built wind tunnel &mdash; hardware, control software and
 
 The results speak to a practical problem: how UAVs and wind turbines respond to vortex gust encounters, and how flocking birds may gain energetic benefit from each other's wakes. The companion [Surfing Wing](/portfolio/02b-surfing-wing/) study isolates the same aerodynamics on a rigid, instrumented airfoil.
 
-The results are published (open access) in *Experiments in Fluids*: [Surfing on vortices: bird flight responses to an unsteady vortex wake](https://doi.org/10.1007/s00348-026-04292-1) (2026).
+Publications from this work:
+
+* S. Hao, N. Medina, M. Islam, R. Gissler, T. Hedrick, A. Gerson, K. Breuer, [Surfing on vortices: bird flight responses to an unsteady vortex wake](https://doi.org/10.1007/s00348-026-04292-1), *Experiments in Fluids* 67, 162 (2026) &mdash; open access
+* T. L. Hedrick, S. I. Friman, C. R. Elowe, S. Hao, A. R. Gerson, K. S. Breuer, [Flapping frequency, amplitude, and organization: associations between accelerometer data and flight energy costs during solo and small group flight of European Starlings](https://doi.org/10.1093/icb/icag124), *Integrative and Comparative Biology* 66, icag124 (2026)
+* S. I. Friman, C. R. Elowe, S. Hao, *et al.*, [It pays to follow the leader: Metabolic cost of flight is lower for trailing birds in small groups](https://doi.org/10.1073/pnas.2319971121), *Proceedings of the National Academy of Sciences* 121(26), e2319971121 (2024)
